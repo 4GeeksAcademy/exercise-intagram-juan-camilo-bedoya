@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+}
+.publicaciones{
+   background-color: white;
+   margin-top: 10px;
+}
+div.publicaciones img{
+    width: 600px;
+    height: 500px;
+}
+div.publicaciones p{
+    padding: 5px;
+
+}
+.titulo-post{
+    display: inline-block;
+    width: 600px;
+}
+.titulo-post span{
+    float:right;
+    position: absolute;
+    padding-top: 30px;
+    padding-left: 5px;
+}
+div.publicaciones h2{
+    float: left;
+    width: 91%;
+    padding-left: 5px;
+}
+header{
+    background-color: white;
+    width: 600px;
+    margin: auto;
+    padding: 10px;
+}
+header h1{
+    margin: 0;
+}
+div.contenido{
+    width: 600px;
+    margin: auto;
+}
